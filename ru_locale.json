@@ -35,7 +35,7 @@
     "image_slider":"Галерея слайдер",
     "html":"Поле HTML",
     "map":"Поле карты",
-    "menu_item":"Элмент меню",
+    "menu_item":"Элемент меню",
     "title":"Надпись",
     "button":"Кнопка",
     "string_input":"Поле ввода строка",
@@ -51,9 +51,7 @@
     "spinner":"Выпадающий список",
     "table":"Таблица",
     "paste_from_clipboard":"Вставить",
-
     "create_debug":"Сгенерировать отладочный файл",
-   
     "multiline":"Многострочный текст",
     "buttons_list":"Список кнопок вертикальный",
     "horizontal_buttons_list":"Список кнопока горизонтальный",
@@ -187,7 +185,6 @@
     "keyboard_reading_in_main_menu":"Чтение клавиатуры в главном меню",
     "stop_service":"Останавливать Сервис при закрытии приложения",
     "command":"Команда",
- 
     "configuration_vendor":"Поставщик конфигурации",
     "vendor_url":"URL поставщика",
     "vendor_login_basic":"Логин поставщика (Basic)",
@@ -242,11 +239,9 @@
     "type_of_element":"Тип",
     "insert_from_clipboard":"Вставить из буфера",
     "dictionaries":"Словари",
-
     "new_screen_handlers":"Обработчики (2.0)",
     "add_screen_handler":"Добавить",
     "delete_screen_handler":"Удалить",
-    
     "action":"Действие",
     "handlertype":"Тип обработчика",
     "method":"Метод",
@@ -266,5 +261,10 @@
     "common_handlers":"Общие обработчики",
     "new_handlers_cv":"Обработчики (2.0)",
     "add_common_handler":"Добавить",
-    "delete_common_handler":"Удалить"
+    "delete_common_handler":"Удалить",
+    "generators":"Генераторы",
+    "generator_file":"Файл генератора",
+    "classes_file":"Файл классов",
+    "generate_forms":"Запуск",
+    "fab":"Плавающая кнопка"
 }

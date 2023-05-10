@@ -53,9 +53,7 @@
     "insert_from_clipboard":"Insert from clipboard",
     "html":"HTML field",
     "map":"Vector map",
-   
     "create_debug":"Create debug file",
-
     "multiline":"Multiline Text",
     "buttons_list":"Buttons List",
     "horizontal_buttons_list":"Horizontal Buttons List",
@@ -174,7 +172,6 @@
     "handler":"Handler",
     "period":"Period",
     "handler_name":"Handler name",
-    
     "name":"Name",
     "show_in_toolbar":"Show in toolbar",
     "enter_sql":"Enter SQL query",
@@ -191,7 +188,6 @@
     "keyboard_reading_in_main_menu":"Keyboard reading in Main menu",
     "stop_service":"Stop service on application exit",
     "command":"Command",
- 
     "configuration_vendor":"Configuration Vendor",
     "vendor_url":"vendor URL",
     "vendor_login_basic":"Vendor login (Basic)",
@@ -236,7 +232,6 @@
     "validated_field":"Validated field",
     "table_SQL_field":"Table SQL field",
     "result_variable":"Result variable",
-  
     "new_style_template":"New style template",
     "new_recognition_template":"New recognition template",
     "select_type":"Select element type...",
@@ -244,12 +239,10 @@
     "restart_note":"Restart the app for the settings to take effect",
     "sql_console":"SQL console",
     "dictionaries":"Dictionaries JSON",
-
     "event":"Event",
     "new_screen_handlers":"Handlers (2.0)",
     "add_screen_handler":"Add",
     "delete_screen_handler":"Delete",
-    
     "action":"Action",
     "handlertype":"Type",
     "method":"Method",
@@ -268,5 +261,10 @@
     "common_handlers":"Common handlers",
     "new_handlers_cv":"Handlers (2.0)",
     "add_common_handler":"Add",
-    "delete_common_handler":"Delete"
+    "delete_common_handler":"Delete",
+    "generators":"Generators",
+    "generator_file":"Generators file",
+    "classes_file":"Classes file",
+    "generate_forms":"Run",
+    "fab":"Floating action button"
 }
